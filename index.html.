@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LogiTech Solutions</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #004080; color: white; padding: 1em 0; text-align: center; }
+        section { padding: 2em; }
+        footer { background-color: #f1f1f1; text-align: center; padding: 1em 0; position: fixed; width: 100%; bottom: 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to LogiTech Solutions</h1>
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>LogiTech Solutions is a premier logistics consultancy offering innovative solutions to streamline your supply chain and enhance operational efficiency.</p>
+        <h2>Our Services</h2>
+        <ul>
+            <li>Supply Chain Optimization</li>
+            <li>Warehouse Management</li>
+            <li>Transportation Planning</li>
+            <li>Inventory Control</li>
+        </ul>
+        <h2>Contact Us</h2>
+        <p>Email: info@logitechsolutions.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 LogiTech Solutions. All rights reserved.</p>
+    </footer>
+</body>
+</html>
